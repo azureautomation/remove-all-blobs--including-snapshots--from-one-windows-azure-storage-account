@@ -1,7 +1,7 @@
 {
     "Author": "Windows Azure Product Team Scripts",
     "ContentSize": 3098,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/remove-all-blobs-(including-snapshots)-from-one-windows-azure-storage-account/master/Remove-BlobsFromAllContainers.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/remove-all-blobs--including-snapshots--from-one-windows-azure-storage-account/master/Remove-BlobsFromAllContainers.ps1",
     "DownloadCount": 2560,
     "Id": "Remove-all-Blobs-including-8b8d1777",
     "IsFederated": true,
@@ -15,6 +15,6 @@
     "Summary": "Removes blobs from blob storage containers.  The script will enumerate through all containers and remove the blobs, maintaining the existence of the container.  If you want to remove the containers, then you can include the RemoveContainer switch.",
     "Title": "Remove all Blobs (including Snapshots) from One Windows Azure Storage Account",
     "UpdatedDate": "2014-10-16T00:00:00",
-    "Url": "https://github.com/azureautomation/remove-all-blobs-(including-snapshots)-from-one-windows-azure-storage-account",
+    "Url": "https://github.com/azureautomation/remove-all-blobs--including-snapshots--from-one-windows-azure-storage-account",
     "UserTags": "Capacity Management"
 }
